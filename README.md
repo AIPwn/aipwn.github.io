@@ -9,7 +9,7 @@
 
 #### 知识星球：AI与安全
 
-<img src="https://tva1.sinaimg.cn/large/00831rSTly1gd2rz37tjnj30ku0sc3zu.jpg" width="320px" height="320px">
+<img src="https://tva1.sinaimg.cn/large/00831rSTly1gd2rz37tjnj30ku0sc3zu.jpg" width="375px" height="510px">
 
 #### 读书笔记
 
