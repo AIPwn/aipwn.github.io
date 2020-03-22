@@ -4,11 +4,12 @@
 #### 专栏
 
 - [神经网络攻防专栏](http://aipwn.org/HackingNeuralNetworks/)
+- [Hacker101-CTF](https://aipwn.org/Hacker101-CTF/)
 
 
 #### 知识星球：AI与安全
 
-![](https://tva1.sinaimg.cn/large/00831rSTly1gd2rz37tjnj30ku0sc3zu.jpg 320*320)
+![](https://tva1.sinaimg.cn/large/00831rSTly1gd2rz37tjnj30ku0sc3zu.jpg =320*320)
 
 
 #### 读书笔记
@@ -20,7 +21,7 @@
 
 - [Stanford CS243: Web Security](https://web.stanford.edu/class/cs253/)
 - [安全攻防技能30讲](http://gk.link/a/10gYl)
-- [Hacker101-CTF](https://aipwn.org/Hacker101-CTF/)
+
 
 
 #### 书籍推荐
